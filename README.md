@@ -2,7 +2,7 @@
 
 This repository contains the C# scripts that are used in my Lego Conquest Unity project. I created this project to get aquainted with using Unity and understand how to impliment its classes into writing C# scripts.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/oKv-tRXdSac))
+[Software Demo Video](https://youtu.be/oKv-tRXdSac)
 
 # Development Environment
 
